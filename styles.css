@@ -1,0 +1,21 @@
+ /* 在较小的设备上缩小标题字号 */
+ @media only screen and (max-width: 600px) {
+     h1 {
+         font-size: 24px;
+     }
+ }
+
+ /* 在中等大小的设备上增加一些行距 */
+ @media only screen and (min-width: 601px) and (max-width: 1024px) {
+     body {
+         line-height: 1.5;
+     }
+ }
+
+ /* 在较大的设备上增加页面的宽度 */
+ @media only screen and (min-width: 1025px) {
+     body {
+         max-width: 1200px;
+         margin: 0 auto;
+     }
+ }
