@@ -1,29 +1,32 @@
-# deliverable-6
-Mindflourish
+# Mindflourish
 
-Welcome to Mindflourish, a website designed to help you improve your mental wellbeing and live a more fulfilling life.
+Welcome to Mindflourish, a web App designed to help you improve your mental wellbeing and practice being mindfull.
 
-Features
+## Getting Started
 
-Landing Page: The landing page provides an introduction to Mindflourish and its mission.
-Login: Registered users can login to access their accounts and track their progress.
-Register: New users can create an account to access all of Mindflourish's features.
-Main: The main page offers a range of resources to help users improve their mental wellbeing, including guided meditations, articles, and exercises.
-Contact Us: Users can contact the Mindflourish team with any questions or concerns.
-Technologies Used
+1. Register
+2. Sign in, and start to write down your daily feeling and reflections
+3. Click "create" button when you are done, turn your words into a art piece.
+4. Publish your work and share it with the community
 
-HTML/CSS: The website is built using HTML and CSS for layout and styling.
-JavaScript: JavaScript is used for interactivity and functionality.
-Tailwind CSS: The Tailwind CSS framework is used to simplify and speed up the styling process.
+### Prerequisites
 
-To use Mindflourish, simply navigate to the website using your preferred web browser.
+Please make sure not to include any of your sensitive personal informations(SSN, DOB, Full Name, Address, Phone Number)in your log.
 
-If you would like to run the website locally, you can download the project files and open them in your preferred text editor. From there, you can make any necessary changes and view the website in your web browser.
+## Built With
 
-Contributions
+- HTML
+- Tailwind CSS
+- Javascript
 
-If you would like to contribute to Mindflourish, please fork the project and submit a pull request with your changes.
+## Authors
 
-License
+- [**Ivyparker**](https://github.com/ivyyivy)
 
-Mindflourish is licensed under the MIT License.
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+- Inspiration [FOREM](https://www.forem.com)
